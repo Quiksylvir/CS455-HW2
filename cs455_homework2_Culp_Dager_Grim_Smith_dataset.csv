@@ -1,0 +1,11 @@
+Industry_Type,Region,Country,Year,Co2_Emissions_MetricTons,Energy_Consumption_TWh,Automobile_Co2_Emissions_MetricTons,Industrial_Co2_Emissions_MetricTons,Agriculture_Co2_Emissions_MetricTons,Domestic_Co2_Emissions_MetricTons,Population_Millions,GDP_Billion_USD,Urbanization_Percentage,Renewable_Energy_Percentage,Industrial_Growth_Percentage,Transport_Growth_Percentage
+Construction,North America,Brazil,2010,89.13,90.14,98.37,118.36,31.41,0.77,941.06,13096.32,52.79,7.78,11.17,2.93
+Mining,Europe,Germany,2006,224.81,931.7,10.81,66.73,39.45,0.21,1421.94,24337.71,50.18,31.52,13.34,9.3
+Manufacturing,South America,South Africa,2017,179.72,255.14,55.36,111.67,1.25,4.97,522.75,24523.17,65.22,5.91,-9.88,4.77
+Construction,Europe,India,2018,23.28,887.29,78.99,123.6,46.81,13.77,1304.6,12616.18,23.69,7.52,-0.64,8.21
+Construction,Africa,China,2013,124.54,923.03,65.93,52.32,35.67,13.91,1437.68,4476,94.64,8.54,5.98,0.84
+Mining,Asia,Australia,2016,251.47,490.32,89.71,47.23,47.5,11.75,733.44,7588.42,43,40.74,13.75,4.98
+Manufacturing,Europe,Brazil,2022,94.95,412.26,44.23,178.1,13.31,9.32,355.53,8892.89,47.89,90.1,-0.34,-2.1
+Manufacturing,Europe,India,2018,144.94,278.5,42.77,129.53,46.92,4.88,230.36,5629.71,98.51,6.32,-1.91,3.65
+Construction,Oceania,South Africa,2021,146.85,807.48,2.71,62.28,22.73,16.76,752.64,18659.66,92.06,75.74,9.25,-4.67
+Energy,North America,Germany,2012,185.59,196.99,1.66,110.2,7.66,11.51,1352.04,1381.48,86.71,0.49,6.92,8.57
